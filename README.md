@@ -6,12 +6,9 @@ This repository contains the implementation of the OWZP-Transformer, a deep lear
 
 The model incorporates 15 predictors, including the Okubo–Weiss–Zeta Parameter (OWZP) as a structural factor, and leverages a Transformer-based architecture with dual encoders and a composite loss function. Our experiments demonstrate significant improvements in short-term TC forecasts compared with existing deep learning models.
 
-For details, please refer to our paper:
-Enhancing tropical cyclone track and intensity predictions with the OWZP-Transformer model (Lin, Chu, & Ham, 2025).
+**Repository Structure**
 
-Repository Structure
-
-Data_processing.py
+'Data_processing.py'
 Prepares input datasets from IBTrACS best-track records and ERA5 reanalysis. Includes feature engineering (e.g., steering flow, OWZP, VWS, RH, SH), sliding-window construction, scaling, and dataset splits into training/validation/test sets.
 
 Train_test.py
