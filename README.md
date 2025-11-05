@@ -3,7 +3,7 @@
 This is for the paper: Lin, Z., Chu, J.-E.*, & Ham, Y.-G. (2025). Enhancing tropical cyclone track and intensity predictions with the OWZP-Transformer model. *npj Artificial Intelligence, 1*(1), 33. https://doi.org/10.1038/s44387-025-00037-3
 
 
-This repository contains the implementation of the OWZP-Transformer, a deep learning model developed to improve the prediction of tropical cyclone (TC) track, intensity, and rapid intensification (RI) events over the Western North Pacific. **If you find this repository useful in your research, please consider citing our paper.**
+This repository contains the implementation of the OWZP-Transformer, a deep learning model developed to improve the prediction of tropical cyclone (TC) track, intensity, and rapid intensification (RI) events over the Western North Pacific. **If you find this repository useful in your research, please feel free to cite our paper.**
 
 The model incorporates 15 predictors, including the Okubo–Weiss–Zeta Parameter (OWZP) as a structural factor, and leverages a Transformer-based architecture with dual encoders and a composite loss function. Our experiments demonstrate significant improvements in short-term TC forecasts compared with existing deep learning models.
 
