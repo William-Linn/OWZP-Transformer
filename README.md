@@ -1,6 +1,9 @@
 # OWZP-Transformer
 
-This is for the paper "Enhancing tropical cyclone track and intensity predictions with the OWZP-Transformer model".
+This is for the paper: Lin, Z., Chu, J.-E.*, & Ham, Y.-G. (2025). *Enhancing tropical cyclone track and intensity predictions with the OWZP-Transformer model*. **npj Artificial Intelligence, 1**(1), 33. https://doi.org/10.1038/s44387-025-00037-3
+
+If you use this code, please cite our paper.
+
 
 This repository contains the implementation of the OWZP-Transformer, a deep learning model developed to improve the prediction of tropical cyclone (TC) track, intensity, and rapid intensification (RI) events over the Western North Pacific.
 
